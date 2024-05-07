@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mole
+  - Hammer
+  - Red1
+  - Red2
+  - Red3
+  - Red4
+  - Red5
+  - Blue1
+  - Blue2
+  - Blue3
+  - Blue4
+  - Blue5
+  - Yellow1
+  - Yellow2
+  - Yellow3
+  - Yellow4
+  - Yellow5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Red
+  - Blue
+  - Yellow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
